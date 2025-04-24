@@ -1,6 +1,5 @@
 using DG.Tweening;
 using UnityEngine;
-using Shapes;
 using TMPro;
 
 public static class ComponentAnimator
